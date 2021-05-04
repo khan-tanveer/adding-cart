@@ -4,7 +4,7 @@ import "./App.css";
 function App() {
   return (
     <div className="App">
-      <h1>hello redux...............</h1>
+      <h1>Increment/Decrement Counter</h1>
     </div>
   );
 }
