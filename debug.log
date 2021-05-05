@@ -19,3 +19,20 @@
 [0425/002516.258:ERROR:exception_snapshot_win.cc(99)] thread ID 7512 not found in process
 [0425/002516.258:ERROR:exception_snapshot_win.cc(99)] thread ID 1752 not found in process
 [0425/141204.160:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[0504/134532.520:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[0504/222805.085:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0504/222805.085:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0504/222805.085:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0504/222805.148:ERROR:exception_snapshot_win.cc(99)] thread ID 3400 not found in process
+[0504/222805.148:ERROR:exception_snapshot_win.cc(99)] thread ID 9080 not found in process
+[0504/222805.148:ERROR:exception_snapshot_win.cc(99)] thread ID 11616 not found in process
+[0504/222805.257:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0504/222805.257:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0504/222805.257:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0504/222805.257:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0504/222805.257:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0504/222805.257:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0504/222805.257:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0504/222805.257:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0504/222805.257:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0504/222805.257:ERROR:exception_snapshot_win.cc(99)] thread ID 1744 not found in process
