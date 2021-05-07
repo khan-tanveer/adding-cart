@@ -11,7 +11,7 @@ function App() {
   return (
     <div className="App">
       <h1>Increment/Decrement Counter</h1>
-      <p>using React and Redux</p>
+      <p>using React and Redux....</p>
       <h1>{myState}</h1>
       <button onClick={() => dispatch(incNumber(5))}> + </button>
       <button onClick={() => dispatch(decNumber(5))}> - </button>
