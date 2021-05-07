@@ -1,14 +1,8 @@
-export const incNumber = (num) => {
+export const editExpense = (id, name) => {
   return {
-    type: "INCREMENT",
-    payload: num,
-  };
-};
-
-export const decNumber = (num) => {
-  return {
-    type: "DECREMENT",
-    payload: num,
+    type: "EDIT_EXPENSE",
+    id,
+    name,
   };
 };
 

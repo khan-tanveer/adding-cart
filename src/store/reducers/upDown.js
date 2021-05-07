@@ -16,6 +16,11 @@ const changeTheNumber = (state = initialState, action) => {
         expense: state.expense.filter((exp) => exp.id !== action.payload),
       };
 
+    case "EDIT_EXPENSE":
+      return {
+        ...state,
+      };
+
     default:
       return state;
   }
